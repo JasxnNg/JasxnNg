@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasxnNg&langs_count=5&layout=donut)](https://github.com/JasxnNg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasxnNg&langs_count=5&layout=donut)](https://github.com/JasxnNg/)
 <!--
 **JasxnNg/JasxnNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
